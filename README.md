@@ -1,5 +1,4 @@
 # Indira (Investing Directive Assistance)
-
 Indira Bot for KataHack 2019.
 
 Team Members:
@@ -21,7 +20,7 @@ Using technology supported by [Kata.ai Platform](https://platform.kata.ai), **In
 Indira can tell you the information of stock list, news, and tips and tricks, also remind you the nearest event of stock investments.
 
 ## How Indira works?
-Built by Kata.ai Platform's NL Studio, Bot Studio, and CMS Studio, **Indira** is ready to help you understanding how to be success in stock investments.
+Built by [Kata.ai Platform](https://platform.kata.ai)'s NL Studio, Bot Studio, and CMS Studio, **Indira** is ready to help you understanding how to be success in stock investments.
 
 #### Say hello to her!
 First, you can say hello to **Indira** and she will reply you with her warm welcome messages. You can ask anything that **Indira** can do. (add screenshots later)
@@ -37,3 +36,14 @@ Are you still a beginner in stock investments? Get some tips and tricks about st
 
 #### Stock investments event reminder
 Just tell her directly if you want to get the stock investments event reminder! **Indira** will text you if she finds upcoming events nearby you. (add screenshots later)
+
+## Watch the demo video below!
+[![Catto](https://i.ibb.co/7R589nd/https-i-ytimg-com-vi-ik-Hq0q-Hb-Uu4-maxresdefault.jpg)](https://www.youtube.com/watch?v=ikHq0qHbUu4 "Catto")
+
+## Special Thanks
+Shout out to these people and the resources we use to teach **Indira** to be the best stock investments assistant:
+1. [Kata.ai Platform](https://platform.kata.ai) to build the bot
+2. [IndoPremier](https://www.indopremier.com/) to get the latest information of stock list
+3. (Link here) to get the latest news of stock market
+4. (Link here) as the resource of tips and tricks
+5. (Link here) to get the upcoming events of stock investments
