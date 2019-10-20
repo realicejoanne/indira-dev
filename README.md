@@ -22,19 +22,19 @@ Indira can tell you the information of stock list, news, and tips and tricks, al
 ## How Indira works?
 Built by [Kata.ai Platform](https://platform.kata.ai)'s NL Studio, Bot Studio, and CMS Studio, **Indira** is ready to help you understanding how to be success in stock investments.
 
-#### Say hello to her!
+#### 🙋Say hello to her!
 First, you can say hello to **Indira** and she will reply you with her warm welcome messages. You can ask anything that **Indira** can do. (add screenshots later)
 
-#### Information of stock list
+#### 📈Information of stock list
 **Indira** will show you the list of registered companies in stock market and what stock can be traded. This information is updated daily so be sure to ask her the latest information of stock list everyday! (add screenshots later)
 
-#### Latest news of stock market
+#### 📰Latest news of stock market
 **Indira** will show you some links of the latest news about stock market from some official websites of stock exchange. You can subscribe the news to be sent daily by asking her. (add screenshots later)
 
-#### Tips and tricks
+#### 💡Tips and tricks
 Are you still a beginner in stock investments? Get some tips and tricks about stock exchange by asking her. The tips and tricks are very useful because **Indira** will tell it in the easiest way to say. (add screenshots later)
 
-#### Stock investments event reminder
+#### ⏰Stock investments event reminder
 Just tell her directly if you want to get the stock investments event reminder! **Indira** will text you if she finds upcoming events nearby you. (add screenshots later)
 
 ## Watch the demo video below!
