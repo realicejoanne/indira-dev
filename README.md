@@ -38,7 +38,7 @@ Do you need a person to tutor you in stock investments? No more worries because 
 Need to know some unique terms of investments? Type the terms and **Indira** will tell you the definition.
 
 ## Watch the demo video below!
-[![Indira](http://img.youtube.com/vi/JLvQDwUXtts/0.jpg)](http://www.youtube.com/watch?v=JLvQDwUXtts "Indira")
+[![Indira](https://i.ibb.co/f0ZTD3y/https-i-ytimg-com-vi-JLv-QDw-UXtts-hqdefault.jpg)](http://www.youtube.com/watch?v=JLvQDwUXtts "Indira")
 
 ## Developments
 Latest release of [Indira Bot v1.0.1](http://t.me/IndiraAI_bot) on Telegram:
